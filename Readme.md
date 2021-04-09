@@ -2,7 +2,7 @@
 
     $ pip install pipenv 
 
-### To test Chat
+### To test Chat run the following commands from the project folder
 
     $ pipenv shell
 
@@ -13,7 +13,7 @@
 
 ### Start server 
 
-    $ python chat-server.py
+    $ python main.py
 
 ### Open page in browser
 
